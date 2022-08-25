@@ -20,6 +20,7 @@
 <li>HTML5</li>
 <li>CSS3</li>
 <li>JS</li>
+<li>REACT-JS</li>
 <li>SASS</li> 
 <li>Bootstrap</li> 
 </ul>
